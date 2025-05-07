@@ -48,7 +48,7 @@ Story2Audio is a powerful microservice that converts input text into expressive 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/story2audio.git
+git clone https://github.com/MQasimJalil/story2audio.git
 cd story2audio
 ```
 
@@ -111,7 +111,7 @@ make docker-run
 ### Gradio Frontend
 
 ```bash
-python gradioapp.py
+python frontend/gradio_app.py
 ```
 
 - Input text and choose from 5 different English voices.
